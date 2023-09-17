@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: 300px;
+    background-color: aliceblue;
+    padding: 30px ;
+}
+
+form * {
+    margin: 10px 0;
+}
